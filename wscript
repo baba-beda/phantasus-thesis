@@ -1,5 +1,3 @@
-# vim: set filetype=python :
-
 import os.path
 
 def configure(conf):
@@ -30,6 +28,7 @@ def build(bld):
             'Goal'
         ]),
         ('02', [
+            'Unsorted'
         ]),
         ('03', [
         ]),
