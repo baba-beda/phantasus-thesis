@@ -24,9 +24,6 @@ def build(bld):
     sources = make_sources([
         'Introduction',
         ('01', [
-            'Linux',
-            'Unionfs',
-            'ZSH',
         ]),
         ('02', [
             'Problem',
@@ -36,14 +33,6 @@ def build(bld):
             'Tools',
         ]),
         ('03', [
-            'Gshell',
-            'Functions',
-            'Main',
-            'DirTree',
-            'Graph',
-            'Workflow',
-            'Implementation',
-            'Examples',
         ]),
         'Conclusion',
     ])
