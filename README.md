@@ -41,3 +41,18 @@ Structure
 * `wscript` describes how to build everything and the `sources` variable
   is actually the only interesting thing there. See also:
   [Lifehack](https://github.com/kirelagin/ninja-thesis/blob/master/wscript#L24)
+
+
+TODO
+=====
+
+- [ ] licenses
+- [ ] bioinformatics
+- [ ] about instruments
+- [ ] add more requirements
+- [ ] javascript listings (curly brackets?)
+- [ ] R listings
+- [ ] sort unsorted
+- [ ] don't forget about bibliography
+- [ ] introduction
+- [ ] integration
