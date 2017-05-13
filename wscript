@@ -24,13 +24,12 @@ def build(bld):
     sources = make_sources([
         'Introduction',
         ('01', [
+            'Bioinformatics',
+            'Existing',
+            'Instruments',
+            'Goal'
         ]),
         ('02', [
-            'Problem',
-            'Goal',
-            'Task',
-            'Similar',
-            'Tools',
         ]),
         ('03', [
         ]),
