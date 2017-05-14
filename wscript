@@ -28,6 +28,9 @@ def build(bld):
             'Goal'
         ]),
         ('02', [
+            'Morpheus',
+            'PhantasusR',
+            'Connection',
             'Unsorted'
         ]),
         ('03', [
