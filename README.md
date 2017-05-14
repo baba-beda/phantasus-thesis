@@ -49,6 +49,15 @@ TODO
 - [ ] licenses
 - [x] bioinformatics
 - [ ] about instruments
+  - [ ] node.js
+  - [ ] shiny
+  - [ ] opencpu
+  - [ ] geo
+  - [ ] docker
+  - [ ] json
+  - [ ] protobuf
+  - [ ] apache2
+  - [ ] html
 - [ ] add more requirements
 - [ ] javascript listings (curly brackets?)
 - [ ] R listings
@@ -57,3 +66,4 @@ TODO
 - [ ] introduction
 - [ ] integration
 - [ ] fix tables and images and listings
+- [ ] fix not found bibliography
