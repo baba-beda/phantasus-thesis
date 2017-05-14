@@ -47,7 +47,7 @@ TODO
 =====
 
 - [ ] licenses
-- [ ] bioinformatics
+- [x] bioinformatics
 - [ ] about instruments
 - [ ] add more requirements
 - [ ] javascript listings (curly brackets?)
@@ -56,3 +56,4 @@ TODO
 - [ ] don't forget about bibliography
 - [ ] introduction
 - [ ] integration
+- [ ] fix tables and images and listings
